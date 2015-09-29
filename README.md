@@ -1,19 +1,11 @@
-jabber-querybot ----------------------------------------------------------------
+# This is jabber-querybot
 
+Check this site for the latest version of this software:
 
-Check this site for the latest version of this software.
-http://github.com/micressor/jabber-querybot
+<http://github.com/micressor/jabber-querybot>
 
+# jabber-querybot ist available in debian:
 
-Overview -----------------------------------------------------------------------
+	apt-get install jabber-querybot
 
-
-Check manpage files:
- jabber-querybot.1
-
-Debian -------------------------------------------------------------------------
-
-
-Jabber-querybot ist available in debian:
-
-apt-get install jabber-querybot
+For more info, please read the manpage file.
