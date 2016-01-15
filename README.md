@@ -14,7 +14,7 @@ Check this site for the latest version of this software:
 
 <http://github.com/micressor/jabber-querybot>
 
-# jabber-querybot ist available in debian:
+jabber-querybot is available in debian:
 
 	apt-get install jabber-querybot
 
@@ -84,3 +84,7 @@ call the function run_auto_query() which you may use for several things.
 
 If your systems load is >=6, this bot will shutdown the jabber connection
 and check every 10 seconds systems load. If load <=2, bot will start over.
+
+# License
+
+jabber-querybot is free software, available under the [GNU General Public License, Version 3](http://www.gnu.org/licenses/gpl.html).
