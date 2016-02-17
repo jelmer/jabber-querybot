@@ -53,6 +53,14 @@ You can control how your jabber response will be:
 * presence = error as presence stanza
 * ignore = ignore message
 
+## How to run a 2nd instance
+
+If your Querymodule.pm of the 2nd instance lies in /home/2nd/lib, try this
+
+	cd /etc/jabber-querybot
+	mv Querymodule.pm Querymodule.pm.old
+	perl -I /home/2nd/lib /usr/bin/jabber-querybot
+
 # Options
 
 jabber-querybot has a lot of variables which you can easy modify for
