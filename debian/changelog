@@ -1,3 +1,9 @@
+jabber-querybot (0.1.0-2) UNRELEASED; urgency=medium
+
+  * Add debian branch in Vcs control fields.
+
+ -- Jelmer Vernooĳ <jelmer@debian.org>  Fri, 14 Sep 2018 11:06:04 +0100
+
 jabber-querybot (0.1.0-1) unstable; urgency=low
 
   * New 0.1.0 upstream files
